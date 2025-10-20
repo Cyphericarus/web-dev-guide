@@ -38,7 +38,7 @@ Real-world code review lessons, implementation tips, and improvement insights.
 - Fluid typography with `clamp()`
 - Pixel-perfect design workflows
 
-[→ View Full Guide](./project-feedback-and-learning.md)
+[→ View Full Guide](./building-better-websites-Feedback-Analysis-and-Developer-Resources.md)
 
 ---
 
