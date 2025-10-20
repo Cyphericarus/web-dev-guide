@@ -54,7 +54,7 @@ Deep dives into scalable, high-performance, and maintainable frontend architectu
 - **SEO & Security** — Meta, schema, XSS/CSRF prevention  
 - **Design Systems** — Storybook, Figma sync, component libraries
 
-[→ View Full Guide](./building-better-websites-Feedback-Analysis-and-Developer-Resources.md)
+[→ View Full Guide](./advanced-best-practices.md)
 
 ---
 
@@ -64,11 +64,6 @@ Deep dives into scalable, high-performance, and maintainable frontend architectu
 1. Begin with **Project Feedback Guide**
 2. Progress to **Advanced Practices**
 3. Explore linked resources per section
-
-### For Reference
-- Use **Checklists** → `/checklists/`
-- Bookmark **Key Resources**
-- Refer to **Examples/** for code patterns
 
 ### For Implementation
 1. Read relevant section  
@@ -153,16 +148,6 @@ web-dev-guide/
   ├── pre-launch.md  
   └── code-quality.md
 ```
-
----
-
-## 💡 Core Principles
-
-1. **Practical** — Tested in production, not theory  
-2. **Concise** — Minimal noise, maximum clarity  
-3. **Curated** — Best links, not endless lists  
-4. **Up-to-date** — 2025 standards and patterns  
-5. **Holistic** — Code, design, performance, a11y, and workflow
 
 ---
 
