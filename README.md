@@ -54,7 +54,7 @@ Deep dives into scalable, high-performance, and maintainable frontend architectu
 - **SEO & Security** — Meta, schema, XSS/CSRF prevention  
 - **Design Systems** — Storybook, Figma sync, component libraries
 
-[→ View Full Guide](./advanced-best-practices.md)
+[→ View Full Guide](./building-better-websites-Feedback-Analysis-and-Developer-Resources.md)
 
 ---
 
