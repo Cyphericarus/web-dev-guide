@@ -200,6 +200,9 @@ Use it, share it, and build better web experiences.
 ---
 
 **Keep Learning. Build Better. Grow Faster.**  
-Made with ❤️ for developers who care about quality.
+Made with 💖 for developers who care about quality.
+
+Created and maintained by <a href="https://github.com/cyphericarus/" target="_blank" rel="noopener noreferrer">Cypher Icarus</a>.
+If this repository helped you prepare for your SQL interviews ⭐ please give it a star!
 
 [⬆ Back to Top](#web-development-best-practices-guide)
