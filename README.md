@@ -2,7 +2,7 @@
 
 A comprehensive, straight-to-point collection of modern web development practices, performance optimization techniques, accessibility standards, and curated resources for frontend developers.
 
-**No bullshit. No fluff. Just what works.**
+> **No fluff. No filler. Just what works.**
 
 ---
 
@@ -21,13 +21,6 @@ A comprehensive, straight-to-point collection of modern web development practice
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
-
----
-
-
-A **concise, battle-tested collection** of modern web development practices, performance techniques, accessibility standards, and curated resources for frontend engineers.
-
-> **No fluff. No filler. Just what works.**
 
 ---
 
